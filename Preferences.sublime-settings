@@ -1,0 +1,22 @@
+{
+	"auto_complete_selector": "source, text",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 16.0,
+	"theme": "Numix.sublime-theme",
+	// small tabs
+    "numix_small_tabs": true,
+    "numix_xsmall_tabs": true,
+
+    // Sidebar padding options
+    "numix_sidebar_tree_xsmall": true,
+    "numix_sidebar_tree_small": true,
+    "numix_sidebar_tree_medium": true,
+    "numix_sidebar_tree_large": true,
+    "numix_sidebar_tree_xlarge": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"preview_on_click": false,
+	"word_wrap": "true"
+}
